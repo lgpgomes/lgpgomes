@@ -15,8 +15,9 @@
       Sou um pouco introvertido e quieto, mas tenho um bom-humor. Estou disposto a aprender cada vez mais e a resolver problemas.
   </p>
     <ul>
-        <li>🎓 Formando em Ciência da Computação | UESC</li>
+        <li>🎓 Formando em Ciência da Computação - UESC</li>
+        <li>📚 Estou ativo na <a href="https://web.digitalinnovation.one/users/gutto-pg">DIO</a> (plataforma de estudos)</li>
         <li>❤ Amante da Stack JS</li>
-        <li>📚 Estou ativo na <a href="https://web.digitalinnovation.one/users/gutto-pg">DIO</a>, plataforma de estudos </li>
+        <li>💼 Veja meu Currículo no <a href="https://www.linkedin.com/in/luizgustavopereiragomes/">Linkedin</a></li>
     </ul>
 </details>
