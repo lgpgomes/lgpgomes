@@ -18,6 +18,6 @@
         <li>🎓 Formando em Ciência da Computação - UESC</li>
         <li>📚 Estou ativo na <a href="https://web.digitalinnovation.one/users/gutto-pg">DIO</a> (plataforma de estudos)</li>
         <li>❤ Amante da Stack JS</li>
-        <li>💼 Veja meu Currículo no <a href="https://www.linkedin.com/in/lgpgomes/">Linkedin</a></li>
+        <li>💼 Veja meu Currículo no <a href="https://www.linkedin.com/in/lgpgomes/">LinkedIn</a></li>
     </ul>
 </details>
