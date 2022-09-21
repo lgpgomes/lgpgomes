@@ -6,16 +6,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgpgomes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-<br/>
-
-<details>
-  <summary>Mais Sobre Mim ⬇</summary>
-  </br>
-  <p>
-      Sou um pouco introvertido e quieto, mas tenho um bom-humor. Estou disposto a aprender cada vez mais e a resolver problemas.
-  </p>
-    <ul>
-        <li>🎓 Formando em Ciência da Computação - UESC</li>
-        <li>💼 Veja meu Currículo no <a href="https://www.linkedin.com/in/lgpgomes/">LinkedIn</a></li>
-    </ul>
-</details>
